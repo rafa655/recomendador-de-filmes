@@ -1,4 +1,4 @@
-et campoIdade;
+let campoIdade;
 let campoFantasia;
 let campoAventura;
 
